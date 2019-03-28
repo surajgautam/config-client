@@ -1,4 +1,4 @@
-package com.example.configclient;
+package com.surajgautam.configclient;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
