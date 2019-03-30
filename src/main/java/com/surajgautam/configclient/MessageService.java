@@ -8,7 +8,6 @@ import org.springframework.stereotype.Component;
  * Created by Suraj Gautam.
  */
 @Component
-@RefreshScope
 public class MessageService {
 
     @Value("${message}")
